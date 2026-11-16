@@ -1,0 +1,22 @@
+{
+  "wheel_id": 913,
+  "structure": "umbrella",
+  "slug": "retainingwallperth-118",
+  "project": "retaining-walls-perth-warranty-970bbeaa4ffd52652e77125516738129",
+  "parent_t1_ref": "retainingwallperth-158",
+  "node_role": "feeder",
+  "money_target": "retainingwallperth.au",
+  "primary_kw": "retaining walls perth warranty",
+  "intended_url": "https://sitesau.github.io/retainingwallperth-118/",
+  "tier": "T2",
+  "writeback_nonce": "56db7444ab4529e0",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-walls-perth-maintenance-b6ec2abbed2a35ef91746d0c3ed5c/",
+      "anchor": "more on retaining walls perth maintenance",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
